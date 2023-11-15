@@ -1,5 +1,5 @@
-import styles from './page.module.css';
+import Section from './components/Section/Section';
 
 export default function Home() {
-  return <main className={styles.main}></main>;
+  return <Section />;
 }
