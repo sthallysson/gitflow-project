@@ -1,3 +1,9 @@
+import './footer.css';
+
 export function Footer() {
-return <h2>footer</h2>
+  return (
+    <footer className="footer">
+      <h2>&lt;footer&gt;</h2>
+    </footer>
+  );
 }
