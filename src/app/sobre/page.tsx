@@ -4,6 +4,7 @@ export default function Sobre() {
       style={{
         color: '#f00',
         backgroundColor: '#000',
+        fontSize: '2rem',
       }}
     >
       sobre
